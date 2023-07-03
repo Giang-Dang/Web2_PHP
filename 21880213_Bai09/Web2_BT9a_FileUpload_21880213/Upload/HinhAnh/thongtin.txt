@@ -1,0 +1,10 @@
+a:6:{s:4:"name";s:5:"4.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpca5tue";s:5:"error";i:0;s:4:"size";i:1139764;s:4:"path";s:22:"./Upload/HinhAnh/4.jpg";}
+a:6:{s:4:"name";s:6:"11.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpHM1Kh5";s:5:"error";i:0;s:4:"size";i:2956857;s:4:"path";s:23:"./Upload/HinhAnh/11.jpg";}
+a:6:{s:4:"name";s:6:"10.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpN8eEo2";s:5:"error";i:0;s:4:"size";i:1558796;s:4:"path";s:23:"./Upload/HinhAnh/10.jpg";}
+a:6:{s:4:"name";s:5:"3.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpcpYN0p";s:5:"error";i:0;s:4:"size";i:1421808;s:4:"path";s:22:"./Upload/HinhAnh/3.jpg";}
+a:6:{s:4:"name";s:5:"1.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpbwOaYF";s:5:"error";i:0;s:4:"size";i:435072;s:4:"path";s:22:"./Upload/HinhAnh/1.jpg";}
+a:6:{s:4:"name";s:6:"3A.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpEolcUI";s:5:"error";i:0;s:4:"size";i:3570;s:4:"path";s:23:"./Upload/HinhAnh/3A.jpg";}
+a:6:{s:4:"name";s:12:"TestFile.gif";s:4:"type";s:9:"image/gif";s:8:"tmp_name";s:14:"/tmp/php52kVih";s:5:"error";i:0;s:4:"size";i:0;s:4:"path";s:29:"./Upload/HinhAnh/TestFile.gif";}
+a:6:{s:4:"name";s:23:"Hinh-nen-chill-PC-4.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpt57h0s";s:5:"error";i:0;s:4:"size";i:44036;s:4:"path";s:40:"./Upload/HinhAnh/Hinh-nen-chill-PC-4.jpg";}
+a:6:{s:4:"name";s:34:"hinh-nen-may-tinh-de-thuong-21.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phpieiW8y";s:5:"error";i:0;s:4:"size";i:826590;s:4:"path";s:51:"./Upload/HinhAnh/hinh-nen-may-tinh-de-thuong-21.jpg";}
+a:6:{s:4:"name";s:25:"ocean-3605547_960_720.jpg";s:4:"type";s:10:"image/jpeg";s:8:"tmp_name";s:14:"/tmp/phphEQHVf";s:5:"error";i:0;s:4:"size";i:104602;s:4:"path";s:42:"./Upload/HinhAnh/ocean-3605547_960_720.jpg";}

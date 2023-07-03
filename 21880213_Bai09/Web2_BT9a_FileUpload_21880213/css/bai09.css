@@ -1,0 +1,123 @@
+.tabcontent {
+    display: none;
+}
+
+.audio-grid {
+    height: 210px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: ; */
+}
+
+.audio-grid-container{
+    max-height: 500px;
+}
+
+.audio-grid-content {
+    flex: 1;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1rem 1rem;
+    overflow-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-grid {
+    height: 350px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: ; */
+}
+
+.image-grid-container{
+    max-height: 500px;
+}
+
+.image-grid-content {
+    flex: 1;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1rem 1rem;
+    overflow-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-fit {
+    max-width:100%;
+    max-height:100%;
+}
+
+.video-grid {
+    height: 210px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: ; */
+}
+
+.video-grid-container{
+    max-height: 500px;
+}
+
+.video-grid-content {
+    flex: 1;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1rem 1rem;
+    overflow-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.doc-grid {
+    height: 150px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: ; */
+}
+
+.doc-grid-container{
+    max-height: 500px;
+}
+
+.doc-grid-content {
+    flex: 1;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1rem 1rem;
+    overflow-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.compressed-grid {
+    height: 150px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: ; */
+}
+
+.compressed-grid-container{
+    max-height: 500px;
+}
+
+.compressed-grid-content {
+    flex: 1;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1rem 1rem;
+    overflow-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

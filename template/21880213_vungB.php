@@ -1,0 +1,1 @@
+<img class="box-B--profile-image" src="./images/profile_pic.jpg" alt="Profile picture">

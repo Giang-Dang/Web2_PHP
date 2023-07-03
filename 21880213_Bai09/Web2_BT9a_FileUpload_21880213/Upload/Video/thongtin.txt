@@ -1,0 +1,1 @@
+a:6:{s:4:"name";s:14:"HTML Video.mp4";s:4:"type";s:9:"video/mp4";s:8:"tmp_name";s:14:"/tmp/phpMgKMq3";s:5:"error";i:0;s:4:"size";i:788493;s:4:"path";s:29:"./Upload/Video/HTML Video.mp4";}
